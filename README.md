@@ -111,4 +111,3 @@ Body: ...
 
 - Dataset oleh [Kaggle - Enron Email Dataset](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset)
 - LLM Inference oleh [Replicate](https://replicate.com)
-- Analisis & Visualisasi oleh: Ariq H.B @ Universitas Brawijaya  
