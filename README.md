@@ -13,7 +13,7 @@ Melalui proyek ini, dilakukan proses analisis email internal perusahaan untuk me
 Dataset publik yang digunakan:
 - **Nama:** Enron Email Dataset  
 - **Link:** [Kaggle - Enron Email Dataset](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset)  
-- **Jumlah email yang dianalisis:** 100 sampel (dapat diperluas)
+- **Jumlah email yang dianalisis:** 1000 sampel (dapat diperluas)
 
 ## 🧠 AI Support Explanation
 
@@ -113,9 +113,3 @@ Prompt dan parameter diuji coba secara iteratif untuk menghasilkan **hasil palin
 - Dataset dari [Kaggle - Enron Email Dataset](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset)
 - LLM inference via [Replicate API](https://replicate.com)
 - Visualisasi dengan Python (Seaborn, Matplotlib)
-- Prompt Engineering oleh **Ariq - Physics Instrumentation Student**
-```
-
----
-
-Kamu bisa langsung copy-paste cell ini ke dalam notebook-mu sebagai cell markdown. Jika ingin saya masukkan langsung ke dalam `.ipynb` atau menambahkan file `README.md`, tinggal bilang aja.
