@@ -1,5 +1,7 @@
 # 📧 Capstone Project: Email Classification & Summarization using IBM Granite
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iZ63pK5JgcquYXSeRkJ7ahLcIYD5Ih3y?usp=sharing)
+
 ## 🔍 Project Overview
 
 - **Tujuan:** Membangun pipeline AI untuk klasifikasi otomatis dan ringkasan email bisnis.
